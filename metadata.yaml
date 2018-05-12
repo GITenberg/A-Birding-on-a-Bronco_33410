@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36387
     wikipedia: http://en.wikipedia.org/wiki/Florence_Augusta_Merriam_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33410#A-Birding-on-a-Bronco
 gutenberg_issued: '2010-08-11'
 gutenberg_type: Text
 identifiers:
